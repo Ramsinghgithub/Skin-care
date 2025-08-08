@@ -1,1 +1,1 @@
-# SKIN CARE project using HTML ang CSS
+# SKIN CARE project using HTML and CSS
